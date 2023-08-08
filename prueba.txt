@@ -11,6 +11,4 @@ primer commit
 7
 8
 
-punto seguido para prueba
-
-actualizacion prueba maestria
+prueba de checkout
