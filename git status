@@ -1,0 +1,73 @@
+[33mcommit c588fa12a329f10164f3afc4f9459fd7f0885312[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Edwin Meneses <edmeneses2@gmail.com>
+Date:   Thu Aug 10 10:42:53 2023 -0500
+
+    commit al master del blogspots en la version mas reciente
+
+ blogspot.html   | 15 [32m++++++++++[m[31m-----[m
+ css/estilos.css | 18 [32m+++++++++++++++++[m[31m-[m
+ 2 files changed, 27 insertions(+), 6 deletions(-)
+
+[33mcommit 396cef12f2877fe4d5acc7edaadf389d41443000[m
+Author: Edwin Meneses <edmeneses2@gmail.com>
+Date:   Wed Aug 9 17:26:10 2023 -0500
+
+    Actualizacion 09-08-23
+
+ prueba.txt | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 46fb0a8ed292178f92dfe58f6fcc3e6a3034e9e3[m
+Author: Edwin Meneses <edmeneses2@gmail.com>
+Date:   Tue Aug 8 18:32:31 2023 -0500
+
+    reemplazo por una version de la otra
+
+ prueba.txt | 4 [32m+[m[31m---[m
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+
+[33mcommit 0f385f23dd495eeed7c9dd13a37990310ad0628e[m
+Author: Edwin Meneses <edmeneses2@gmail.com>
+Date:   Tue Aug 8 18:24:24 2023 -0500
+
+    Actualizacion 2
+
+ prueba.txt | 4 [32m+++[m[31m-[m
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+[33mcommit ad31fc6fe96f2d2246d45b71be20104e24949265[m
+Author: Edwin Meneses <edmeneses2@gmail.com>
+Date:   Tue Aug 8 18:23:36 2023 -0500
+
+    actualizacion 1
+
+ prueba.txt | 2 [32m++[m
+ 1 file changed, 2 insertions(+)
+
+[33mcommit 5b699363bd9dce128fe63013e7d6d5162c885717[m
+Author: Edwin Meneses <edmeneses2@gmail.com>
+Date:   Tue Aug 8 18:21:35 2023 -0500
+
+    Proyecto real
+
+ blogspot.html   | 11 [32m+++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 17 insertions(+)
+
+[33mcommit 15b8bc6ddc1eaa0673c816b35b6d6214167881d5[m
+Author: Edwin Meneses <edmeneses2@gmail.com>
+Date:   Tue Aug 8 17:58:34 2023 -0500
+
+    Commit
+
+ prueba.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit bc90b0e3084841b63a79edb1559e79e2b36e4f82[m
+Author: Edwin Meneses <edmeneses2@gmail.com>
+Date:   Tue Aug 8 16:46:53 2023 -0500
+
+    Primer commit
+
+ prueba.txt | 11 [32m+++++++++++[m
+ 1 file changed, 11 insertions(+)
